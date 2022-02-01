@@ -8,13 +8,6 @@
 
 - YouTube Bot is a discord bot where you can search for anything on YouTube, it will automatically find the first result, the channel and a lot more info about it then format it into an embed, and if you would like there is a dropdown menu where you can make the bot send you an ephemeral message with the video as an embed to watch.
 
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
 ##Set-Up
 
 ###Required
