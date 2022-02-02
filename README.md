@@ -2,7 +2,7 @@
 
 ![](https://cdn.discordapp.com/attachments/815418855832551444/938217748314619934/image_2022-02-01_161812-removebg-preview_2.png)
 
-![](https://img.shields.io/github/stars/Riceblade/YouTube-Discord-Bot.svg) ![](https://img.shields.io/github/forks/Riceblade/YouTube-Discord-Bot.svg) ![](https://img.shields.io/github/release/Riceblade/YouTube-Discord-Bot.svg) ![](https://img.shields.io/github/issues/Riceblade/YouTube-Discord-Bot.svg)
+![](https://img.shields.io/github/stars/Riceblade/YouTube-Discord-Bot.svg) ![](https://img.shields.io/github/forks/Riceblade/YouTube-Discord-Bot.svg) ![](https://img.shields.io/github/v/release/Riceblade/YouTube-Discord-Bot.svg) ![](https://img.shields.io/github/issues/Riceblade/YouTube-Discord-Bot.svg)
 
 ### Info
 
