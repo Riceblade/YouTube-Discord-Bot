@@ -66,18 +66,7 @@ DEVELOPER_KEY = 'googleapikeyhere'
 - and of course you can customize the embed and drop down menu
 ## How It Works
 
-```flow
-stt=>start: error
-st=>start: Discord Command
-op=>operation: Google API
-cond=>condition: Request Successful Yes or No?
-e=>operation: Check channel info
-h=>end: Discord Embed
-
-st->op->cond
-cond(yes)->e->h
-cond(no)->stt
-```
+[]!(https://cdn.discordapp.com/attachments/815418855832551444/938224112344637470/unknown.png)
 ### FAQ
 - How do I avoid maxing out my quota on Googles API?
 > You should add a cooldown to the bots commands, and if you are using this bot in a lot of servers I would recommend making more Google projects, getting the API keys from those, then using code that will randomly pick from 1 of up to 15 API keys in a text file.
