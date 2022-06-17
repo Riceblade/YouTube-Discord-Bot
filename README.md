@@ -72,8 +72,6 @@ DEVELOPER_KEY = 'googleapikeyhere'
 > You should add a cooldown to the bots commands, and if you are using this bot in a lot of servers I would recommend making more Google projects, getting the API keys from those, then using code that will randomly pick from 1 of up to 15 API keys in a text file.
 - How can I host this bot without paying?
 > I would recommend EC2 on AWS for free hosting, you can research how to use that, I am not typing out a tutorial because I am not in the mood to write a 30 page essay.
-- Why did you waste so much time on the README.md?
->shut up.
 
 
 # End
